@@ -7,7 +7,7 @@
   - - try and except functions
   - - for and while loops
   
-  # Required Python Modules for Functionality
+  # Required Python Modules for Functionality:
   - SpeechRecognition
   - pyttsx3 
   - pywhatkit
