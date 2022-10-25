@@ -8,7 +8,12 @@
   - - for and while loops
   
   # Required Python Modules for Functionality
-  - 
+  - SpeechRecognition
+  - pyttsx3 
+  - pywhatkit
+  - datetime
+  - wikipedia
+  - pyjokes
 
 # Current Problems:
 - Upon running the code, the emulator simply responds with "please repeat the command" and does not take voice input
