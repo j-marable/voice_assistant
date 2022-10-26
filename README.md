@@ -7,7 +7,7 @@
   - - try and except functions
   - - for and while loops
   
-  # Required Python Modules for Functionality:
+  ## Required Python Modules for Functionality:
   - SpeechRecognition
   - pyttsx3 
   - pywhatkit (TBD)
@@ -15,7 +15,7 @@
   - wikipedia (TBD)
   - pyjokes (TBD)
 
-# Problem Log:
+## Problem Log:
 - Upon running the code, the emulator simply responds with "please repeat the command" and does not take voice input
   - Addressing the problem by implementing different architecture (compare files voice_assisstant.py and va2.py)
   - Planning to bridge pyttsx3 and speech_recognition interfaces
