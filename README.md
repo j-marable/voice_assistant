@@ -17,4 +17,4 @@
 
 # Problem Log:
 - Upon running the code, the emulator simply responds with "please repeat the command" and does not take voice input
-  - Addressing the problem by implementing different architecture
+  - Addressing the problem by implementing different architecture (compare files voice_assisstant.py and va2.py)
