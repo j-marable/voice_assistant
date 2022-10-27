@@ -18,4 +18,5 @@
 ## Problem Log:
 - Upon running the code, the emulator simply responds with "please repeat the command" and does not take voice input
   - Addressing the problem by implementing different architecture (compare files voice_assisstant.py and va2.py)
-  - Planning to bridge pyttsx3 and speech_recognition interfaces
+- Planning to bridge pyttsx3 and speech_recognition interfaces (va3.py)
+  - Implemented different architecture but recieving "TypeError: catching classes that do not inherit from BaseException is not allowed" from line 27
